@@ -26,8 +26,8 @@ __GENERATE LIST__ :
 - From this option you can generate instantly wordlist.<p align="center">
 <p align="center">
   <a>
-    <img src="https://raw.githubusercontent.com/uddip3815/W-Gen/master/screenshot.png">
-    <img src="https://raw.githubusercontent.com/uddip3815/W-Gen/master/screenshot1.png">
+    <img title="" src="https://raw.githubusercontent.com/uddip3815/W-Gen/master/screenshot.png">
+    <img title="" src="https://raw.githubusercontent.com/uddip3815/W-Gen/master/screenshot1.png">
   </a>
 </p>
 ## WARNING : 
