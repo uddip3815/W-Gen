@@ -23,6 +23,12 @@
 * `./wgen`
 ## USAGE OPTIONS :
 __GENERATE LIST__ :
-- From this option you can generate instantly wordlist.
+- From this option you can generate instantly wordlist.<p align="center">
+<p align="center">
+  <a>
+    <img src="https://raw.githubusercontent.com/uddip3815/W-Gen/master/screenshot.png">
+    <img src="https://raw.githubusercontent.com/uddip3815/W-Gen/master/screenshot1.png">
+  </a>
+</p>
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
