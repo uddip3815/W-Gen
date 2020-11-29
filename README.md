@@ -24,5 +24,7 @@
 ## USAGE OPTIONS :
 __GENERATE LIST__ :
 - From this option you can generate instantly wordlist.
+#  Screenshots : 
+<a href="https://raw.githubusercontent.com/uddip3815/W-Gen/master/screenshot.png"></a>
 ## Warning
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
