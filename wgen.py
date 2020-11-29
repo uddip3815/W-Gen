@@ -18,7 +18,7 @@ print (" ")
 
 length=int(input("Enter the number of characters: "))
 print (" ")
-li_name=input("Name your wordlist: ")
+li=input("Name your wordlist: ")
 print (" ")
 print ("Wordlist Generating Please Wait!")
 print (" ")
@@ -26,7 +26,7 @@ lista=[0 for x in range(length)]
 x=length-1
 string="abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*"
 list_of_results=[]
-file1=open(li_name,"w")
+file1=open(li,"w")
 while(x>-1):
     result=""
     if lista[x]==len(string)-1:
@@ -49,4 +49,4 @@ while(x>-1):
     file1.write(result+"\n")
 print ("Completed Generating Wordlist")
 print (" ")
-print ("Please check "+str(li_name)+" in your W-Gen directoy")
+print ("Please check "+str(li)+" in your W-Gen directoy")
