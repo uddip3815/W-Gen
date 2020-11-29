@@ -1,18 +1,24 @@
-print('''
+red='\033[91m'
+b='\033[21m'
+green='\033[92m'
+yellow='\033[93m'
+cyan='\033[96m'
+blue='\033[94m'
+print(blue+'''
             WW                    WW            GG            EEEEEEEE      NN     NNNN
              WW        WW        WW           GG              EE            NN    NN NN
               WW     WW  WW     WW          GG    GGGGGG      EEEEE         NN   NN  NN
                WW   WW    WW   WW            GG   GG  GG      EE            NN  NN   NN
                 WWWW       WWWW               GGGG     GG     EEEEEEEE      NNNN     NN     
                                                                                             v 1.0
-''')
-print ('''       
+'''+blue)
+print (green+'''       
                             <===[[ By uddip3815 ]]===>                                 
-''')
+'''+green)
 print (" ")
 print (" ")
 
-length=int(input("Enter the number of characters: "))
+length=int(input(yellow+"Enter the number of characters: "+yellow))
 print (" ")
 li_name=input("Name your wordlist: ")
 print (" ")
