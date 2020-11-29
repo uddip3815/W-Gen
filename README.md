@@ -24,12 +24,6 @@
 ## USAGE OPTIONS :
 __GENERATE LIST__ :
 - From this option you can generate instantly wordlist.
-## SCREEN SHOT : 
-<p align="center">
-<a href="https://rebrand.ly/BuyCoffee"><img title=""  
-src="https://github.com/uddip3815/W-Gen/blob/master/screenshot.png">
-</a>
-</p>
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
