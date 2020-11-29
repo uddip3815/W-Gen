@@ -6,27 +6,27 @@ print('''
                 WWWW       WWWW               GGGG     GG     EEEEEEEE      NNNN     NN     
                                                                                             v 1.0
 ''')
-print ('''
-                        00 00000    00     00       
-                        00     00     00  00        0   0  0 0000  00000  0000000
-                        00 000000      0000         0   0  0    0    0    00    0
-                        00    000       00          0   0  0    0    0    0000000
-                        00 00000        00          00000  0 0000  00000  00
+print ('''       
+                            <===[[ By uddip3815 ]]===>                                 
 ''')
 print (" ")
 print (" ")
 
 length=int(input("Enter the number of characters: "))
 print (" ")
-li=input("Name your wordlist: ")
+li_name=input("Name your wordlist: ")
 print (" ")
-print ("Wordlist Generating Please Wait!")
+print ("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
+print (" ")
+print ("Generating Wordlist Please Wait!")
+print (" ")
+print ("   <<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>   ")
 print (" ")
 lista=[0 for x in range(length)]
 x=length-1
 string="abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*"
 list_of_results=[]
-file1=open(li,"w")
+file1=open(li_name,"w")
 while(x>-1):
     result=""
     if lista[x]==len(string)-1:
@@ -49,4 +49,8 @@ while(x>-1):
     file1.write(result+"\n")
 print ("Completed Generating Wordlist")
 print (" ")
-print ("Please check "+str(li)+" in your W-Gen directoy")
+print ("   >>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<   ")
+print (" ")
+print ("Please check "+str(li_name)+" in your W-Gen directoy")
+print (" ")
+print ("   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   ")
