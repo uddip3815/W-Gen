@@ -1,5 +1,5 @@
 # W-Gen
-# Installation
+# Installation and Usage[Linux] : 
 * `apt-get update -y`
 * `apt-get upgrade -y`
 * `apt-get install python -y`
@@ -10,6 +10,17 @@
 * `cd W-Gen`
 * `ls`
 * `python lazybee.py`
+# Installation and Usage[Termux] : 
+* `apt-get update -y`
+* `apt-get upgrade -y`
+* `apt-get install git -y`
+* `cd $HOME`
+* `git clone https://github.com/uddip3815/W-Gen.git`
+* `ls`
+* `cd W-Gen`
+* `chmod +x *`
+* `./install`
+* `./wgen`
 ## USAGE OPTIONS :
 __GENERATE LIST__ :
 - From this option you can generate instantly wordlist.
