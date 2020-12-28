@@ -9,7 +9,7 @@
 * `ls`
 * `cd W-Gen`
 * `ls`
-* `python lazybee.py`
+* `python wgen.py`
 # Installation and Usage[Termux] : 
 * `apt-get update -y`
 * `apt-get upgrade -y`
